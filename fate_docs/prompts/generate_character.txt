@@ -1,0 +1,2 @@
+Create a Fate character file using the `_character_meta.md` template.
+High-fantasy genre. Return Markdown front-matter and sections only.
