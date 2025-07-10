@@ -1,6 +1,6 @@
 ---
 id: {{object_id}}
-type: faction
+type: zone
 name: {{object_name}}
 parent: {{parent_id}}
 tags: [{{tag1}}, {{tag2}}]
